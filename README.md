@@ -1,7 +1,7 @@
 Check out the deployed project **[➡️ here ⬅️](https://hotim-domoy.zookie.online)**.
 
 # «We Want Home» | «Хотим Домой»
-## About project
+## About
 A team pet project coded in June 2022. This is a service for finding your lost pets, as well as for finding owners for street-found pets.
 
 My part of the job was almost the entire front end (except Yandex Maps API interaction).<br>
